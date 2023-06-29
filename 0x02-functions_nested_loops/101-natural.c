@@ -19,6 +19,7 @@ int main(void)
 			j += i;
 	}
 
-	printf("%D\n", j);
+	printf("%d\n", j);
 
 	return (0);
+}
